@@ -1,0 +1,67 @@
+body{
+    background-image: url('coco img.webp');
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin:0px;
+}
+
+.btn{
+    font-family: Florence, Cursive;
+    border-radius: 5px;
+    color: #00B7EB;
+    background-color: black;
+    text-align: center;
+}
+
+.btn-login{
+    font-size:20px;
+    width:150px;
+    height:30px;
+    border: 2px solid #00B7EB;
+    
+}
+
+.btn-join{
+    font-size:20px;
+    width: 150px;
+    height:30px;
+    border: 2px solid #00B7EB;
+    position: relative;
+    top:25%;
+    left:25%;
+}
+
+.header{
+    background-color: black;
+    font-family: Florence, Cursive;
+    font-size: 28px;
+    font-weight:bold;
+    color: #00B7EB;
+    text-align: center;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+
+.loginBox{
+    background-color: black;
+    height:50%;
+    width: 100%;
+    border:1px solid #00B7EB;
+    margin-top: 15px;
+    border-radius: 15px;
+}
+
+
+.joinBox{
+    background-color: black;
+    height: 10%;
+    width: 100%;
+    border: 1px solid #00B7EB;
+    border-radius: 15px;
+}
+
