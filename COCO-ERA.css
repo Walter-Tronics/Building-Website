@@ -1,6 +1,6 @@
 body{
-    background-image: url('/coco\ img.webp');
-    height: 100vh;
+    background-image: url('coco img.webp');
+    height: 100%;
     width: 100%;
     background-repeat: no-repeat;
     background-position: center;
